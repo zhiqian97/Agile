@@ -17,6 +17,9 @@ public class Sample {
     public static void main(String[] args) {
         System.out.println("Main");
         System.out.println("second");
+        System.out.println("first-branch");
+        System.out.println("second-branch");
+
     }
     
 }
